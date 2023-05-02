@@ -1,0 +1,1 @@
+zip -r program.zip src/*.c
